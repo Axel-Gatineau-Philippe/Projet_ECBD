@@ -1,0 +1,10 @@
+Fievre;Douleur;Toux;maladie
+Oui;Abdomen;Non;Appendicite
+Non;Abdomen;Oui;Appendicite
+Oui;Gorge;Non;Rhume
+Oui;Gorge;Oui;Rhume
+Non;Gorge;Oui;Mal de gorge
+Oui;Non;Non;Aucune
+Oui;Non;Oui;Rhume
+Non;Non;Oui;Refroidissement
+Non;Non;Non;Aucune
